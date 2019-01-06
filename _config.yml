@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Guangzhou-China"
+locale                   : "Zaozhuang, China"
 title                    : "Guangyuan Hao"
 title_separator          : "-"
 name                     : &name "Guangyuan Hao"
@@ -83,10 +83,10 @@ author:
   name             : "Guangyuan Hao"
   avatar           : "profile.png"
   bio              : "Importance always means one thing in relation to another. There is no such thing as importance alone."
-  location         : "Zaozhuang-China"
+  location         : "Zaozhuang, China"
   employer         :
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "guangyuanhao[at]outlook.com"
+  email            : "guangyuanhao@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
