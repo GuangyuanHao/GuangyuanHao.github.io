@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2018-07-13
 venue: 'Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence'
 paperurl: 'https://www.ijcai.org/proceedings/2018/0306.pdf'
-citation: 'Guangyuan Hao, Hongxing Yu, Weishi Zheng, IJCAI, (2018). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Guangyuan Hao, Hongxing Yu, Weishi Zheng, &quot;Paper Title Number 2.&quot; <i>IJCAI</i>, 2018.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
