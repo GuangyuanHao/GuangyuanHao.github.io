@@ -6,15 +6,10 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2018-07-13
 venue: 'Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence'
 paperurl: 'https://github.com/GuangyuanHao/MIXGAN'
-citation: @article{hao2018mixgan,
-  title={MIXGAN: learning concepts from different domains for mixture generation},
-  author={Hao, Guang-Yuan and Yu, Hong-Xing and Zheng, Wei-Shi},
-  journal={IJCAI},
-  year={2018}
-}
+citation: 'Guangyuan Hao, Hongxing Yu, Weishi Zheng, IJCAI, (2018). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://www.ijcai.org/proceedings/2018/0306.pdf)
 
- IJCAI, 2018
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
