@@ -11,5 +11,3 @@ citation: 'Guangyuan Hao, Hongxing Yu, Weishi Zheng, &quot;Paper MIXGAN: Learnin
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://www.ijcai.org/proceedings/2018/0306.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
