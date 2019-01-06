@@ -10,4 +10,4 @@ citation: 'Guangyuan Hao, Hongxing Yu, Weishi Zheng, &quot;DSRGAN: Explicitly Le
 ---
 This paper is about explicitly learning disentangled representation. Present methods like infoGAN, Beta-VAE aim to maximum mutual information between latent variables and images in nature, so those methods make each dimension of the input prior represent one of unknown factors as fully as possible. Therefore, factors that they disentangle are random and ambiguous and thus those models do not always disentangle factors people care. My project aims to explicitly learn disentangled representation so as to improve model interpretability.
 
-[Download paper here](The link will be released after the paper is published.)
+[Download paper here]('The link will be released after the paper is published.')
