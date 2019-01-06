@@ -3,7 +3,7 @@ title: "DSRGAN: Explicitly Learning Disentangled Representation of Underlying St
 collection: publications
 permalink: 
 excerpt: 'This paper aims to achieve a kind of mixture generation, i.e., generating images in a mixture domain containing the content of one domain and the style of another domain. A general method to mix kinds of entangled concepts from multiple domains for mixture generation is left for future work.'
-date: 2019-07-16
+date: Future
 venue: 
 paperurl: 
 citation: 'Guangyuan Hao, Hongxing Yu, Weishi Zheng, &quot;DSRGAN: Explicitly Learning Disentangled Representation of Underlying Structure and Rendering for Image Generation without Tuple Supervision &quot; <i>Submitted to CVPR</i>, 2019.'
