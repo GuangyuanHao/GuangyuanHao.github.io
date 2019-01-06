@@ -22,13 +22,13 @@ Work experience
   * Supervisor: Prof. Huanyu Cheng
 
 * 2017 - Now: Research Assistant
-  * Github University
+  * Sun Yat-sen University
   * Duties included: studied machine learning and its applications
   * Supervisor: Prof. Weishi Zheng
   
 Skills
 ======
-* Programming and Related: Python, TensorFlow, LATEX , Linux, MATLAB, VHDL, FPGA, ABAQUS
+* Programming and Related: Python, TensorFlow, LaTeX , Linux, MATLAB, VHDL, FPGA, ABAQUS
 * Languages: English (fluent), Chinese (native)
 
 Publications
@@ -36,19 +36,3 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-[//]: <> (Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-)
