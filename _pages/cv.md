@@ -28,7 +28,7 @@ Work experience
   
 Skills
 ======
-* Programming and Related: Python, TensorFlow, LaTeX , Linux, MATLAB, VHDL, FPGA, ABAQUS
+* Programming and Related: Python, TensorFlow, LaTeX , Linux, C, MATLAB, VHDL, FPGA, ABAQUS
 * Languages: English (fluent), Chinese (native)
 
 Publications
