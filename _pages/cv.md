@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in nformation Display and Optoelectronic Technology, University of Electronic Science and Technology of China, 2012-2016
+* B.S. in Information Display and Optoelectronic Technology, University of Electronic Science and Technology of China, 2012-2016
 * Exchange Student in Department of Engineering Science and Mechanics, The Pennsylvania State University, University Park, 2016-2017
 
 Work experience
 ======
 * 2016 - 2017: Research Intern
   * The Pennsylvania State University, University Park
-  * Duties included: studied stretchable electronics.
+  * Duties included: focused on stretchable electronics.
   * Supervisor: Prof. Huanyu Cheng
 
 * 2017 - Now: Research Assistant
   * Sun Yat-sen University
-  * Duties included: studied machine learning and its applications
+  * Duties included: focused on machine learning and its applications
   * Supervisor: Prof. Weishi Zheng
   
 Skills
